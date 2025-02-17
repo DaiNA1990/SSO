@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADFS_TG.props" />
+</Project>

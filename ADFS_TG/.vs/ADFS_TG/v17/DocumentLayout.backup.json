@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|f:\\fpt\\vtb\\sso2025\\adfs_tg\\adfs_tg\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|f:\\fpt\\vtb\\sso2025\\adfs_tg\\adfs_tg\\controllers\\adfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|solutionrelative:controllers\\adfscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|f:\\fpt\\vtb\\sso2025\\adfs_tg\\adfs_tg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|f:\\fpt\\vtb\\sso2025\\adfs_tg\\adfs_tg\\adfs_cert\\privatekey.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|solutionrelative:adfs_cert\\privatekey.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|f:\\fpt\\vtb\\sso2025\\adfs_tg\\adfs_tg\\adfs_tg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A6B26D54-00CD-40B6-A47C-7BC5FAEBD0A3}|ADFS_TG.csproj|solutionrelative:adfs_tg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T06:38:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrivateKey.txt",
+              "DocumentMoniker": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\adfs_cert\\PrivateKey.txt",
+              "RelativeDocumentMoniker": "adfs_cert\\PrivateKey.txt",
+              "ToolTip": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\adfs_cert\\PrivateKey.txt",
+              "RelativeToolTip": "adfs_cert\\PrivateKey.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T03:17:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T02:34:23.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ADFS_TG",
+              "DocumentMoniker": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj",
+              "RelativeDocumentMoniker": "ADFS_TG.csproj",
+              "ToolTip": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj",
+              "RelativeToolTip": "ADFS_TG.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T07:25:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADFSController.cs",
+              "DocumentMoniker": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\Controllers\\ADFSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ADFSController.cs",
+              "ToolTip": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\Controllers\\ADFSController.cs",
+              "RelativeToolTip": "Controllers\\ADFSController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAkwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:35:56.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
