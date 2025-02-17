@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpudgLcsDtg=",
+  "dgSpecHash": "9hxpD79HEtw=",
   "success": true,
-  "projectFilePath": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj",
+  "projectFilePath": "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\ADFS_TG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAUBONGTIT\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\SAUBONGTIT\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",

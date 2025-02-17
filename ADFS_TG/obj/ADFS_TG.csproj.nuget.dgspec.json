@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj": {}
+    "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\ADFS_TG.csproj": {}
   },
   "projects": {
-    "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj": {
+    "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\ADFS_TG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj",
+        "projectUniqueName": "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\ADFS_TG.csproj",
         "projectName": "ADFS_TG",
-        "projectPath": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\ADFS_TG.csproj",
+        "projectPath": "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\ADFS_TG.csproj",
         "packagesPath": "C:\\Users\\SAUBONGTIT\\.nuget\\packages\\",
-        "outputPath": "F:\\FPT\\VTB\\SSO2025\\ADFS_TG\\ADFS_TG\\obj\\",
+        "outputPath": "F:\\FPT\\VTB\\SSO2025\\GitHub\\SSO\\ADFS_TG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAUBONGTIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
